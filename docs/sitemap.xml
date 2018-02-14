@@ -8,46 +8,6 @@
   </url>
   
   <url>
-    <loc>http://digitalhistory.orphicoasis8.com/post/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://digitalhistory.orphicoasis8.com/post/work3/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://digitalhistory.orphicoasis8.com/post/work4/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://digitalhistory.orphicoasis8.com/post/work5/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://digitalhistory.orphicoasis8.com/post/work7/</loc>
-    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://digitalhistory.orphicoasis8.com/post/work8/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://digitalhistory.orphicoasis8.com/post/work9/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://digitalhistory.orphicoasis8.com/post/work10/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://digitalhistory.orphicoasis8.com/post/using-hugo-and-github-like-good-friends/</loc>
     <lastmod>2018-02-13T19:56:54-06:00</lastmod>
   </url>
@@ -63,11 +23,6 @@
   </url>
   
   <url>
-    <loc>http://digitalhistory.orphicoasis8.com/post/work1/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://digitalhistory.orphicoasis8.com/categories/blurb/</loc>
     <lastmod>2018-02-13T20:23:59+05:30</lastmod>
     <priority>0</priority>
@@ -80,26 +35,8 @@
   </url>
   
   <url>
-    <loc>http://digitalhistory.orphicoasis8.com/categories/code/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://digitalhistory.orphicoasis8.com/categories/design/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://digitalhistory.orphicoasis8.com/</loc>
     <lastmod>2018-02-13T20:23:59+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://digitalhistory.orphicoasis8.com/categories/photography/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,12 +48,6 @@
   
   <url>
     <loc>http://digitalhistory.orphicoasis8.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://digitalhistory.orphicoasis8.com/categories/travel/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   
