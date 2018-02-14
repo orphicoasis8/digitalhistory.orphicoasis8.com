@@ -1,6 +1,7 @@
 baseurl = "http://digitalhistory.orphicoasis8.com/"
 title = "Digital History"
 theme = "hugo-tracks-theme"
+publishDir = "docs"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""

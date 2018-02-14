@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Digital History</title>
+    <link>http://digitalhistory.orphicoasis8.com/categories/</link>
+    <description>Recent content in Categories on Digital History</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 20:23:59 +0530</lastBuildDate>
+    
+	<atom:link href="http://digitalhistory.orphicoasis8.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blurb</title>
+      <link>http://digitalhistory.orphicoasis8.com/categories/blurb/</link>
+      <pubDate>Tue, 13 Feb 2018 20:23:59 +0530</pubDate>
+      
+      <guid>http://digitalhistory.orphicoasis8.com/categories/blurb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>http://digitalhistory.orphicoasis8.com/categories/code/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>http://digitalhistory.orphicoasis8.com/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>http://digitalhistory.orphicoasis8.com/categories/design/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>http://digitalhistory.orphicoasis8.com/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://digitalhistory.orphicoasis8.com/categories/photography/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>http://digitalhistory.orphicoasis8.com/categories/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://digitalhistory.orphicoasis8.com/categories/travel/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>http://digitalhistory.orphicoasis8.com/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

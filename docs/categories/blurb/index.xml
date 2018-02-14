@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blurb on Digital History</title>
+    <link>http://digitalhistory.orphicoasis8.com/categories/blurb/</link>
+    <description>Recent content in Blurb on Digital History</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 20:23:59 +0530</lastBuildDate>
+    
+	<atom:link href="http://digitalhistory.orphicoasis8.com/categories/blurb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://digitalhistory.orphicoasis8.com/post/first-post/</link>
+      <pubDate>Tue, 13 Feb 2018 20:23:59 +0530</pubDate>
+      
+      <guid>http://digitalhistory.orphicoasis8.com/post/first-post/</guid>
+      <description>My First Post Content</description>
+    </item>
+    
+  </channel>
+</rss>
