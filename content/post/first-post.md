@@ -2,10 +2,10 @@
 draft = false
 image = "img/portfolio/logs1.jpg"
 showonlyimage = true
-date = "2018-02-13T20:23:59+05:30"
+date = "2017-02-13T20:23:59+05:30"
 title = "My First Post"
-categories = [ "Blurb"]
-weight = 1
+categories = []
+
 +++
 
 My First Post Content

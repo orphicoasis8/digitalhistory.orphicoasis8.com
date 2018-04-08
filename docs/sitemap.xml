@@ -3,13 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://digitalhistory.orphicoasis8.com/post/first-post/</loc>
-    <lastmod>2018-02-13T20:23:59+05:30</lastmod>
+    <loc>http://digitalhistory.orphicoasis8.com/post/digital-history-for-april-4th/</loc>
+    <lastmod>2018-04-04T00:11:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://digitalhistory.orphicoasis8.com/post/digital-history-for-march-28th/</loc>
+    <lastmod>2018-03-28T00:03:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://digitalhistory.orphicoasis8.com/post/digital-history-for-march-7th/</loc>
+    <lastmod>2018-03-07T23:42:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://digitalhistory.orphicoasis8.com/post/airtable-tool/</loc>
+    <lastmod>2018-02-28T23:27:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://digitalhistory.orphicoasis8.com/post/digital-history-for-feb-28th/</loc>
+    <lastmod>2018-02-28T23:13:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://digitalhistory.orphicoasis8.com/post/digital-history-for-feb-21st/</loc>
+    <lastmod>2018-02-21T22:53:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://digitalhistory.orphicoasis8.com/post/digital-history-for-feb-14th/</loc>
+    <lastmod>2018-02-14T22:47:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://digitalhistory.orphicoasis8.com/post/week4/</loc>
+    <lastmod>2018-02-07T22:32:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://digitalhistory.orphicoasis8.com/post/week3p2/</loc>
+    <lastmod>2018-01-31T22:09:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://digitalhistory.orphicoasis8.com/post/week3p1/</loc>
+    <lastmod>2018-01-31T22:07:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://digitalhistory.orphicoasis8.com/post/week2/</loc>
+    <lastmod>2018-01-24T21:56:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://digitalhistory.orphicoasis8.com/post/week1/</loc>
+    <lastmod>2018-01-17T21:47:58-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://digitalhistory.orphicoasis8.com/post/using-hugo-and-github-like-good-friends/</loc>
-    <lastmod>2018-02-13T19:56:54-06:00</lastmod>
+    <lastmod>2017-02-13T19:56:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://digitalhistory.orphicoasis8.com/post/first-post/</loc>
+    <lastmod>2017-02-13T20:23:59+05:30</lastmod>
   </url>
   
   <url>
@@ -23,26 +83,26 @@
   </url>
   
   <url>
-    <loc>http://digitalhistory.orphicoasis8.com/categories/blurb/</loc>
-    <lastmod>2018-02-13T20:23:59+05:30</lastmod>
+    <loc>http://digitalhistory.orphicoasis8.com/categories/</loc>
+    <lastmod>2018-01-24T21:56:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://digitalhistory.orphicoasis8.com/categories/</loc>
-    <lastmod>2018-02-13T20:23:59+05:30</lastmod>
+    <lastmod>2018-01-24T21:56:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://digitalhistory.orphicoasis8.com/</loc>
-    <lastmod>2018-02-13T20:23:59+05:30</lastmod>
+    <lastmod>2018-04-04T00:11:35-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://digitalhistory.orphicoasis8.com/post/</loc>
-    <lastmod>2018-02-13T20:23:59+05:30</lastmod>
+    <lastmod>2018-04-04T00:11:35-05:00</lastmod>
     <priority>0</priority>
   </url>
   
