@@ -1,6 +1,6 @@
 ---
 title: "Using Hugo and Github Like Good Friends"
-date: 2017-02-13T19:56:54-06:00
+date: 2017-01-01T19:56:54-06:00
 draft: false
 ---
 
