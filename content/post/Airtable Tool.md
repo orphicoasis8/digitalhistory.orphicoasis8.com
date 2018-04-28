@@ -1,5 +1,5 @@
 ---
-title: "Airtable Tool"
+title: "Airtable"
 date: 2018-02-28T23:27:23-05:00
 draft: false
 ---

@@ -6,10 +6,24 @@
     <description>Recent content on Digital History</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Apr 2018 22:31:56 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Apr 2018 23:48:17 -0500</lastBuildDate>
     
 	<atom:link href="http://digitalhistory.orphicoasis8.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Digital History Overview</title>
+      <link>http://digitalhistory.orphicoasis8.com/post/nav/</link>
+      <pubDate>Fri, 27 Apr 2018 23:48:17 -0500</pubDate>
+      
+      <guid>http://digitalhistory.orphicoasis8.com/post/nav/</guid>
+      <description>Week 1 Posting
+This was a great post I did about stuff in the first week.
+Week 1 Posting
+This was a great post I did about stuff in the first week.
+Week 1 Posting
+This was a great post I did about stuff in the first week.</description>
+    </item>
     
     <item>
       <title>Plotly</title>
@@ -66,7 +80,7 @@
     </item>
     
     <item>
-      <title>Airtable Tool</title>
+      <title>Airtable</title>
       <link>http://digitalhistory.orphicoasis8.com/post/airtable-tool/</link>
       <pubDate>Wed, 28 Feb 2018 23:27:23 -0500</pubDate>
       
