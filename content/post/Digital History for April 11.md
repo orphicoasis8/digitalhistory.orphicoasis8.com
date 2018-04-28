@@ -1,6 +1,9 @@
 ---
-title: "My Post"
-date: 2018-04-19T20:51:05-05:00
-draft: true
+title: "Digital History for April 11"
+date: 2018-04-11T20:51:05-05:00
+draft: false
 ---
 
+##Digital History for April 11, 2018
+
+###"Seven Ways Humanists are Using Computers to Understand Text" by Ted UnderwoodHearing about the projects others have made to look up words that were used during a certain time frame have left me wondering about usefulness. I don’t need a computer computation to know that people used to say “groovy” a lot and now it’s barely used at all. How far did the use of “groovy” go around the world, I don’t know and that bit of information seems to be as useful as knowing how many shingles are on the roof of my house. I have read as far as the two questions, one of representation and the other what to do with that. I couldn’t help but wonder a third question. “What will be the usefulness, or the point, of analyzing text?” Am I going to eat my skeptical words in shame? Underwood did mention a couple uses, a bit broadly and vague, and I am left with a feeling that leans more towards “cool to mess with for a person who has the time.”###"Topic Modeling Martha Ballard’s Diary" by Cameron BlevinsThis was an interesting read. Kind of obvious in certain spots just as he says.###"Mining the Dispatch"This is also very interesting and amusing to guess at the attitudes and, perhaps, even the emotions of the people of the time. Clothing and Entertainment subjects were almost all gone from the papers during the war – makes sense.###"Searching for the Victorians" by Dan CohenVery interesting article here.  I wonder at the reasons for the word Christ being used more often than Jesus. One does sound more “divine” than the other. This is my favorite article of all the readings this week. It works better with my train of thought. I am letting go of the “why?” and “what’s the point?” as I now feel that text mining now has more to do with a new form of art. A new art. It’s the same search to illustrate the quirks of humanity and seek some kind of answers.
