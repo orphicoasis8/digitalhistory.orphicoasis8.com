@@ -19,3 +19,7 @@ This week continued the discussion on digital history versus digital humanities 
 
 ### [The Lost Museum]({{< ref "week3p2.md" >}})
 Of the long list of digital history projects to review, this one gave me enough to talk about.
+
+
+### [February 7, 2018]({{< ref "week4.md" >}})
+This week prepares us for Github. We do some reading on Markdown and Github itself and it's time to jump in.
